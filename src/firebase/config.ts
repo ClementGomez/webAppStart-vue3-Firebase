@@ -11,13 +11,13 @@ import {
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyCQZwWY8kDuF7oxkLApgc0wAxTdMcGIgg4",
-    authDomain: "eifwebapp.firebaseapp.com",
-    projectId: "eifwebapp",
-    storageBucket: "eifwebapp.appspot.com",
-    messagingSenderId: "254549578127",
-    appId: "1:254549578127:web:538af56659bbc325563bfa",
-    measurementId: "G-5CCC07ZT18"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 };
 
 // init firebase app
